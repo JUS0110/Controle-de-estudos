@@ -13,14 +13,14 @@
 
  ## :clipboard:**STATUS DAS ETAPAS:** ## 
   - [1] Em Andamento
-  - [2] Pendente
+  - [2] Em Andamento
   - [3] Pendente
   - [4] Pendente
 
  ## :spiral_calendar:**CRONOGRAMA DO PROJETO:** ##
   - [X] Iniciar etapa 1 (09/03/2026)
   - [ ] Finalizar etapa 1 (07/07/2026)
-  - [ ] Iniciar etapa 2 (08/07/2026)
+  - [X] Iniciar etapa 2 (08/07/2026)
   - [ ] Finalizar etapa 2 (18/07/2026)
   - [ ] Iniciar etapa 3 (19/07/2026)
   - [ ] Finalizar etapa 3 (25/07/2026)
