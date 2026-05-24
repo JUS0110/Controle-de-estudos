@@ -1,6 +1,6 @@
 # **Projeto de análise de dados: Controle de estudos** #
 
-## :pushpin:**DESCRIÇÃO:** ##
+## **DESCRIÇÃO:** ##
   O Controle de estudos é um projeto de análise de dados com o objetivo de identificar gargalos críticos, armazenar dados de baixa/média/alta produtividade e filtrar motivações de resultados ao conciliar várias matérias/disciplinas de estudo. A partir disso, é possível criar hipóteses e, com base nos dados, chegar a conclusões sobre os resultados obtidos. OBS.: Os dados coletados são todos reais, baseados na rotina real de uma estudante do curso de BCC durante o 2° período.
 
 ## :ledger:**ETAPAS DO PROJETO:** ##
