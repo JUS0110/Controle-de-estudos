@@ -1,3 +1,9 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/JUS0110/Controle-de-estudos?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/JUS0110/Controle-de-estudos?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/JUS0110/Controle-de-estudos?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/JUS0110/Controle-de-estudos?style=for-the-badge)
+
+
 <img width="3780" height="1890" alt="Projeto de análise de dados controle de estudos (2)" src="https://github.com/user-attachments/assets/9f02cd3e-fcc7-4b5c-b82a-4fa7aefc6abb" />
 
 ## :pushpin:**DESCRIÇÃO:** ##
@@ -23,3 +29,4 @@
 ## 🛠️ **TECNOLOGIAS UTILIZADAS:** ##
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
