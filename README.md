@@ -1,6 +1,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/JUS0110/Controle-de-estudos?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/JUS0110/Controle-de-estudos?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/JUS0110/Controle-de-estudos?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Andamento-000000?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/JUS0110/Controle-de-estudos?style=for-the-badge)
 
 
