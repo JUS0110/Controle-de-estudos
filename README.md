@@ -1,7 +1,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/JUS0110/Controle-de-estudos?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/JUS0110/Controle-de-estudos?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Andamento-000000?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/JUS0110/Controle-de-estudos?style=for-the-badge)
 
 
 <img width="3780" height="1890" alt="Projeto de análise de dados controle de estudos (2)" src="https://github.com/user-attachments/assets/9f02cd3e-fcc7-4b5c-b82a-4fa7aefc6abb" />
