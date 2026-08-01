@@ -23,7 +23,7 @@
   - [X] Iniciar etapa 2 (09/03/2026)
   - [X] Finalizar etapa 2 (08/07/2026)
   - [X] Iniciar etapa 3 (19/07/2026)
-  - [ ] Finalizar etapa 3 (31/07/2026)
+  - [X] Finalizar etapa 3 (31/07/2026)
 
 ## 🛠️ **TECNOLOGIAS UTILIZADAS:** ##
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
